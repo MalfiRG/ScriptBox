@@ -16,3 +16,6 @@ To allow the script to run smoothly, create a shortcut to _.ps1_ file and set up
 
 ### Version 1.0
 :construction_worker: :construction: `Under development`:construction:
+
+- To provide cmdlet for Repo registration and script installation in C:\ProgramFiles\Powershell\Scripts
+  - It will allow to run in by relative path (only script name)
